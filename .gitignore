@@ -2,3 +2,5 @@
 
 # ide
 *.idea
+
+.DS_Store
