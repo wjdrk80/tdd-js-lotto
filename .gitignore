@@ -1,6 +1,8 @@
+# git
 *.gitignore
 
 # ide
 *.idea
 
-*.DS_Store
+#etc
+.DS_Store
